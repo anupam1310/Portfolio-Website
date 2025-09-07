@@ -1,0 +1,8 @@
+
+@import "tailwindcss";
+
+@theme {
+  --darkMode: "class";
+}
+@tailwind utilities;
+
